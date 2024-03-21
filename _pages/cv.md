@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Jiyao Liu"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer and Information Sciences, Temple University, 2025 (expected)
+* M.S. in Computer and Information Sciences, Temple University, 2023
+* B.S. in Information Security, North China University of Science and Technology, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Aug. - Dec. 2024: Research Intern
+  * Toyota North America, CA, US
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Dr. Yongkang Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021 - 2015: Teaching/Research Assistant
+  * Temple University
+  * Supervisor: Dr. Yu wang
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,4 +47,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Reviewer for 
+  * IEEE Transactions on Cloud Computing
+  * Internet of Things Journal
+  * and more.
