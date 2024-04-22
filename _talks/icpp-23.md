@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/icpp-23
 venue: "ICPP 2023"
-date: 2023-08
+date: 2023-8
 location: "Salt Lake City, UT"
 ---
 
