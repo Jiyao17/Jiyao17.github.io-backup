@@ -2,7 +2,7 @@
 title: "Computer Programming in C"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2022-spring
+permalink: /teaching/2022-spring-c
 venue: "Temple University, CIS"
 date: 2022-01-01
 location: "Philadelphia, USA"
