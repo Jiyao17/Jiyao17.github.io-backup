@@ -5,7 +5,7 @@ permalink: /publication/sat-network-24
 excerpt: ''
 date: 2024-08-01
 venue: 'ICPP'
-paperurl: '[https://jiyao17.github.io/files/sat-network-24.pdf]'
+paperurl: '/files/sat-network-24.pdf'
 citation: ''
 ---
 
