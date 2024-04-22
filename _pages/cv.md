@@ -12,14 +12,14 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer and Information Sciences, Temple University, 2025 (expected)
-* M.S. in Computer and Information Sciences, Temple University, 2023
+* M.S. in Computer and Information Sciences, Temple University, 2024
 * B.S. in Information Security, North China University of Science and Technology, 2020
 
 Work experience
 ======
-* Aug. - Dec. 2024: Research Intern
+* Aug. - Dec. 2023: Research Intern
   * Toyota North America, CA, US
-  * Duties includes: Updates and improvements to template
+  * Duties includes: design machine learning models for electric vehicle applications
   * Supervisor: Dr. Yongkang Liu
 
 * 2021 - 2025: Teaching/Research Assistant

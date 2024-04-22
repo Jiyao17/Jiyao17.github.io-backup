@@ -1,5 +1,5 @@
 ---
-title: "CIS 2168 Data Structures"
+title: "CIS 2168.005 Data Structures"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2021-fall

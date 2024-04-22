@@ -5,7 +5,7 @@ permalink: /publication/gfl-icpp-23
 excerpt: ''
 date: 2023-08-01
 venue: 'ICPP'
-paperurl: '[http://jiyao17.github.io/files/gfl-icpp-23.pdf](https://doi-org.libproxy.temple.edu/10.1145/3605573.3605584)'
+paperurl: '[https://jiyao17.github.io/files/gfl-icpp-23.pdf]'
 citation: ''
 ---
 
