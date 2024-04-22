@@ -22,7 +22,7 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: Dr. Yongkang Liu
 
-* 2021 - 2015: Teaching/Research Assistant
+* 2021 - 2025: Teaching/Research Assistant
   * Temple University
   * Supervisor: Dr. Yu wang
 
@@ -33,11 +33,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -45,9 +45,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Services
 ======
 Reviewer for 
+  * IEEE Transactions on Mobile Computing
   * IEEE Transactions on Cloud Computing
-  * Internet of Things Journal
+  * IEEE Internet of Things Journal
   * and more.
