@@ -28,7 +28,7 @@ Work experience
 
 * 2021 - 2025: Teaching/Research Assistant
   * Temple University
-  * Supervisor: Dr. Yu wang
+  * Supervisor: [Dr. Yu Wang](https://cis.temple.edu/~yu/){:target="_blank"}
 
 <!-- 
 Publications

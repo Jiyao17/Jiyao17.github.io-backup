@@ -5,7 +5,7 @@ permalink: /publication/gfl-icpp-23
 excerpt: ''
 date: 2023-08-01
 venue: 'ICPP'
-paperurl: '/files/gfl-icpp-23.pdf'
+paperurl: '[download](/files/gfl-icpp-23.pdf){:target="_blank"}'
 citation: ''
 ---
 
