@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+[CV PDF](/files/CV.pdf){:target="_blank"}
+
 Education
 ======
 * Ph.D in Computer and Information Sciences, Temple University, 2025 (expected)
@@ -19,39 +22,42 @@ Education
 Work experience
 ======
 * Aug. - Dec. 2023: Research Intern
-  * Toyota North America, CA, US
-  * Duties includes: design machine learning models for electric vehicle applications
+  * InfoTech Labs, Toyota Motor North America, CA, US
+  * Duties: design machine learning models for electric vehicle applications
   * Supervisor: Dr. Yongkang Liu
 
 * 2021 - 2025: Teaching/Research Assistant
   * Temple University
   * Supervisor: Dr. Yu wang
 
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+ -->
 
+<!-- 
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> 
+ -->
 
 Awards
 ======
 * CIS Outstanding Graduate Research Assistant Award, 2024
 * ICPP Student Travel Award, 2023
 
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> 
-
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+ -->
 
 Services
 ======
