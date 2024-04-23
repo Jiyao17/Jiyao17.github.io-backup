@@ -15,6 +15,7 @@ Education
 * M.S. in Computer and Information Sciences, Temple University, 2024
 * B.S. in Information Security, North China University of Science and Technology, 2020
 
+
 Work experience
 ======
 * Aug. - Dec. 2023: Research Intern
@@ -32,12 +33,19 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+Awards
+======
+* CIS Outstanding Graduate Research Assistant Award, 2024
+* ICPP Student Travel Award, 2023
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
 
 Talks
 ======
