@@ -16,7 +16,6 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
-Group-based Hierarchical Federated Learning: Convergence, Group Formation, and Sampling.
-ICPP 2023. Salt Lake City, UT
-
+Group-based Hierarchical Federated Learning: Convergence, Group Formation, and Sampling.  
+ICPP 2023. Salt Lake City, UT.  
 A conference talk for an accepted paper.
