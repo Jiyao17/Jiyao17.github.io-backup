@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=fKvC6OMAAAAJ){:target="_blank"} profile.
 
-# Preprints
+# Pre-Prints
 
 Group Formation and Sampling in Group-based Hierarchical Federated Learning.  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
@@ -21,7 +21,7 @@ IEEE Network, in revision. 2024. (*co-first authors)
 
 Group-based Hierarchical Federated Learning: Convergence, Group Formation, and Sampling.  
 **Jiyao Liu**, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang.  
-52nd International Conference on Parallel Processing (**ICPP**). 2023. 
+52nd International Conference on Parallel Processing (**ICPP**). 2023.  
 [Paper](/files/papers/2023/gfl-icpp-23.pdf){:target="_blank"}
 
 Joint Participant Selection and Learning Optimization for Federated Learning of Multiple Models in Edge Cloud.  
