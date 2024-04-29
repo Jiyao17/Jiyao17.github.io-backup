@@ -9,8 +9,18 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<!-- 
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} 
+-->
+
+## Preprints
+
+## 2024 and earlier
+Group-based Hierarchical Federated Learning: Convergence, Group Formation, and Sampling
+# Jiyao Liu
+Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang
+# ICPP
