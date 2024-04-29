@@ -17,6 +17,7 @@ author_profile: true
 {% endfor %} 
 -->
 
+
 # Preprints
 
 Group Formation and Sampling in Group-based Hierarchical Federated Learning.  
@@ -35,7 +36,7 @@ Group-based Hierarchical Federated Learning: Convergence, Group Formation, and S
 
 Joint Participant Selection and Learning Optimization for Federated Learning of Multiple Models in Edge Cloud.  
 Xinliang Wei, **Jiyao Liu**, and Yu Wang.  
-Journal of Computer Science and Technology (JCST). 2023.
+Journal of Computer Science and Technology (JCST). 2023.  
 
 # 2022
 
@@ -50,6 +51,6 @@ Xinliang Wei, **Jiyao Liu**, and Yu Wang.
 
 # Prior to 2021
 
-An anonymous blockchainbased logging system for cloud computing.  
+An anonymous blockchain-based logging system for cloud computing.  
 **Jiyao Liu**, Yun-Hua He, Chao Wang, Yan Hu, Hong Li, and Li-Min Sun.  
 International Conference on Blockchain and Trustworthy Systems. Springer. 2019, pp. 288–301  
