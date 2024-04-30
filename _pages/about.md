@@ -14,5 +14,5 @@ Prior to this, I obtained my B.Eng. degree in Information Security from North Ch
 
 
 # News  
-**Apr. 2024** Glad to receive the CIS Outstanding Research Assistant Award!
-**Apr. 2024** New version of my personal website launched~
+**Apr. 2024** Glad to receive the CIS Outstanding Research Assistant Award!  
+**Apr. 2024** New version of my personal website launched~  
