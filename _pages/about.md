@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Jiyao Liu"
 author_profile: true
